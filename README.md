@@ -1,4 +1,4 @@
 # Echecs
-
-#> javac Partie.java
-#> java Partie
+*> javac Partie.java*
+<br/>
+*> java Partie*
